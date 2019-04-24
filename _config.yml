@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 github_username:    imagoodman
-
+jianshu_username:   e5e5bee2da2f
 
 
 
@@ -89,7 +89,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·KAKEKA",
-        href: "https://www.jianshu.com/u/e5e5bee2da2f"
+        title: "xsegment",
+        href: "https://www.xsegment.cn/"
+    },
+    {
+        title: "one-piece",
+        href: "https://one-piece.blue/"
     }
 ]
