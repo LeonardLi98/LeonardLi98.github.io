@@ -97,3 +97,6 @@ friends: [
         href: "https://one-piece.blue/"
     }
 ]
+
+plugins:
+  - jekyll-seo-tag
