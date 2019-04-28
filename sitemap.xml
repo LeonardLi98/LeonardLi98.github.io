@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://imagoodman.github.io/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/about/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/tags/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2019/04/25/PCB/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2018/05/29/%E6%8C%87%E9%92%88%E5%92%8C%E6%95%B0%E7%BB%84%E7%9A%84%E5%B0%8F%E6%B5%8B%E8%AF%95/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2018/04/26/%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E5%92%8C%E5%A0%86%E6%A0%88%E5%8F%98%E5%8C%96/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2018/04/15/%E7%BD%91%E9%A1%B5/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2018/03/29/%E5%8F%98%E9%87%8F%E5%82%A8%E5%AD%98%E7%B1%BB%E5%9E%8B-%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%93%BE%E6%8E%A5%E5%B1%9E%E6%80%A7/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2018/03/18/%E6%A8%A1%E6%8B%9F%E6%8B%A5%E5%A1%9E%E6%9C%BA%E5%88%B6/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://imagoodman.github.io/2018/03/17/%E6%A8%A1%E6%9D%BF/</loc>
+  <lastmod>2019-04-25T09:40:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
