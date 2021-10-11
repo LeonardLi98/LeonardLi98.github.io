@@ -2,7 +2,7 @@
 
 > 博客的搭建教程，来自 [Hux](https://github.com/Huxpro/huxpro.github.io)，以及[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)
 
-### [我的博客在这里 &rarr;](https://leonardli98.github.io/)
+### [我的博客在这里 &rarr;](https://RongfanLi98.github.io/)
 
 ### 配置问题
 
